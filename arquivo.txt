@@ -1,0 +1,3 @@
+# teste arquivo git
+
+arquivo novo no git do repositorio VAICURINTIA  
